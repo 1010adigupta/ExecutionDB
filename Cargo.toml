@@ -1,0 +1,7 @@
+[workspace]
+members = ["execution-db"]
+resolver = "2"
+
+[workspace.dependencies]
+anyhow = "1"
+bytes = "1"
